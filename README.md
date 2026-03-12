@@ -3,6 +3,7 @@ I'm a up and coming college graduate who's looking for work, as well as doing so
 
 - The AUREA Census (Currently tidying data)
 - The Subgrubs and Snazzards Bot (I update the database for major changes)
+- Manuscript on Queer Parenting 
 
 You can most easily reach me by email at gomessh@mailbox.org. 
 
