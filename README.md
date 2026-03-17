@@ -1,5 +1,5 @@
 ## Hi there 🎉
-I'm a up and coming college graduate who's looking for work, as well as doing some small projects on the side. Things I'm normally working on are:
+I'm a up and coming college graduate who's looking for work. Things I'm normally working on are:
 
 - The AUREA Census (Currently tidying data)
 - The Subgrubs and Snazzards Bot (I update the database for major changes)
