@@ -1,9 +1,9 @@
 ## Hi there 🎉
 I'm a up and coming college graduate who's looking for work. Things I'm normally working on are:
 
-- The AUREA Census (Currently tidying data)
-- The Subgrubs and Snazzards Bot (I update the database for major changes)
-- Manuscript on Queer Parenting 
+- The AUREA Census (On break as I wrap up my final semester.)
+- The Subgrubs and Snazzards Bot (I update the database for major changes.)
+- Manuscript on Queer Parenting (We'll be putting this in for review in the next couple weeks!)
 
 You can most easily reach me by email at gomessh@mailbox.org. 
 
