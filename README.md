@@ -1,11 +1,10 @@
 ## Hi there 🎉
-I'm a up and coming college graduate who's looking for work. Things I'm normally working on are:
+Computer Science major plus a mathematics minor equals one person who loves data analysis. Graduating this May 2026. Things I'm normally working on are:
 
-- The AUREA Census (On break as I wrap up my final semester.)
-- The Subgrubs and Snazzards Bot (I update the database for major changes.)
-- Manuscript on Queer Parenting (We'll be putting this in for review in the next couple weeks!)
+- The <a href="https://www.aromanticism.org/">AUREA Census</a> (On break as I wrap up my final semester.)
+- <a href="https://github.com/gomes-sh/AnalysisOfParentingDesireGap">Manuscript on Queer Parenting</a> (We'll be putting this in for review in the next couple weeks!)
 
-You can most easily reach me by email at gomessh@mailbox.org. 
+I'm currently looking for work opportunties! You can most easily reach me by email at gomessh@mailbox.org. 
 
 <!--
 **MagicBluebird/MagicBluebird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
