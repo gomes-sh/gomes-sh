@@ -1,7 +1,7 @@
 ## Hi there 🎉
 Computer Science major plus a mathematics minor equals one person who loves data analysis. Graduated May 2026. Things I'm normally working on are:
 
-- The <a href="https://www.aromanticism.org/">AUREA Census</a> (On break as I wrap up my final semester.)
+- The <a href="https://www.aromanticism.org/">AUREA Census</a>
 
 Things I've recently wrapped up are: 
 - <a href="https://github.com/gomes-sh/AnalysisOfParentingDesireGap">Manuscript on Queer Parenting</a> (In for review!)
