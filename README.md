@@ -7,7 +7,7 @@ Things I've recently wrapped up are:
 - <a href="https://github.com/gomes-sh/AnalysisOfParentingDesireGap">Manuscript on Queer Parenting</a> (In for review!)
 - <a href="https://github.com/gomes-sh/SQL-MongoDB-Comparison">A comparison of SQL and MongoDB aggregate queries</a> for a research class.
 
-I'm currently looking for work opportunties! You can most easily reach me by email at gomessh@my.easternct.edu. 
+I'm currently looking for work opportunties! You can most easily reach me by email at gomessh@mailbox.org. 
 
 <!--
 **MagicBluebird/MagicBluebird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
