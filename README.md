@@ -1,5 +1,5 @@
 ## Hi there 🎉
-Computer Science major plus a mathematics minor equals one person who loves data analysis. Graduated May 2026. Things I'm normally working on are:
+Recent college graduate who enjoys working with data. Things I'm normally working on are:
 
 - The <a href="https://www.aromanticism.org/">AUREA Census</a>
 
