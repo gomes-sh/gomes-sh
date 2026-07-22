@@ -1,6 +1,7 @@
 ## Hi there 🎉
-Recent college graduate who enjoys working with data. Things I'm normally working on are:
+Recent college graduate who enjoys working with data. Things I'm currently working on are:
 
+- Developing OpenData packages for <a href="https://martinezc1-nyc-open-data-lab.share.connect.posit.cloud/">NYC Open Data Lab</a>
 - The <a href="https://www.aromanticism.org/">AUREA Census</a>
 
 Things I've recently wrapped up are: 
