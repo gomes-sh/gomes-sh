@@ -1,12 +1,14 @@
 ## Hi there 🎉
-Recent college graduate who enjoys working with data. Things I'm currently working on are:
+I'm a recent college graduate who enjoys working with data. I love working on anything that catches my attention. In the past, this has included:
 
-- Developing OpenData packages for <a href="https://martinezc1-nyc-open-data-lab.share.connect.posit.cloud/">NYC Open Data Lab</a>
-- The <a href="https://www.aromanticism.org/">AUREA Census</a>
-
-Things I've recently wrapped up are: 
 - <a href="https://github.com/gomes-sh/AnalysisOfParentingDesireGap">Manuscript on Queer Parenting</a> (In for review!)
 - <a href="https://github.com/gomes-sh/SQL-MongoDB-Comparison">A comparison of SQL and MongoDB aggregate queries</a> for a research class.
+- <a href="https://github.com/nyc-open-data-lab">R packages</a> to make open data more accessible, done as an internship with NYC Open Data Lab.
+
+I also contribute to the <a href="https://www.aromanticism.org/">AUREA Census</a> as an occasional volunteer and analyst. 
+
+If you want to talk, you can find me at gomessh@mailbox.org. Drop me a line!
+
 
 <!--
 **MagicBluebird/MagicBluebird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
